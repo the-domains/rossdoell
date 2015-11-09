@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[rossdoell]]></title>
         <description><![CDATA[rossdoell]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rossdoell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 Nov 2015 15:52:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 09 Nov 2015 15:57:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rossdoell/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://pbs.twimg.com/media/CTI_RMAWIAAoUpq.jpg:large">]]></description>
+            <link>https://thegrid.ai/rossdoell/aec44551-cd68-4bfe-ab59-917ca8b2a61c/index.html</link>
+            <guid isPermaLink="false">aec44551-cd68-4bfe-ab59-917ca8b2a61c</guid>
+            <pubDate>Mon, 09 Nov 2015 15:56:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Umbra Sink Caddy]]></title>
             <description><![CDATA[<article><h1>Umbra Sink Caddy</h1><img src="http://rossdoell.com/_assets/images/Project_Saddle_2.jpg"></article>]]></description>
