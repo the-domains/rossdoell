@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[rossdoell]]></title>
+        <description><![CDATA[rossdoell]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 09 Nov 2015 15:52:09 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Umbra Sink Caddy]]></title>
+            <description><![CDATA[<article><h1>Umbra Sink Caddy</h1><img src="http://rossdoell.com/_assets/images/Project_Saddle_2.jpg"></article>]]></description>
+            <link>http://rossdoell.com/</link>
+            <guid isPermaLink="false">6cd24aa0-df80-4d87-a623-b5c120090e3b</guid>
+            <pubDate>Mon, 09 Nov 2015 15:51:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
