@@ -1,6 +1,6 @@
 name: rossdoell
 favicon: null
-layout_spectrum: 0.00384
+layout_spectrum: 1
 typography_spectrum: 0.8661578104365617
 cta:
   domain: null
@@ -23,6 +23,6 @@ color:
     - '#c2c2c2'
   brandStrength: 0.5
   lightness: 0.5
-  saturation: 0.5
+  saturation: 0.375
   rhythmicContrast: 0.5
 purpose: []
