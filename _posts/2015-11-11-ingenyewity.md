@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-12T00:10:03.462Z'
-dateModified: '2015-11-12T00:09:49.667Z'
+datePublished: '2015-11-12T03:38:02.349Z'
+dateModified: '2015-11-12T01:34:12.887Z'
 title: Ingenyewity
 sourcePath: _posts/2015-11-11-ingenyewity.md
 published: true
