@@ -6,17 +6,17 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-11T23:56:43.908Z'
-dateModified: '2015-11-11T23:56:18.999Z'
+datePublished: '2015-11-12T00:10:03.462Z'
+dateModified: '2015-11-12T00:09:49.667Z'
 title: Ingenyewity
+sourcePath: _posts/2015-11-11-ingenyewity.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-11-ingenyewity.md
-published: true
 url: ingenyewity/index.html
 _type: Article
 
