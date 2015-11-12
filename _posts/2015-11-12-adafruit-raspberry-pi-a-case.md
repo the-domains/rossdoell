@@ -1,14 +1,14 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-12T00:21:40.768Z'
-dateModified: '2015-11-12T00:20:54.152Z'
-title: Adafruit Raspberry Pi A+ case
+datePublished: '2015-11-12T00:57:35.510Z'
+dateModified: '2015-11-12T00:57:21.771Z'
+title: Adafruit Raspberry PI A+ Case
 authors: []
 publisher:
   name: null
@@ -21,4 +21,4 @@ url: adafruit-raspberry-pi-a-case/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5bc8e95d-1eb6-47f0-ac20-148b1e7348e3.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc7b195b-f54c-447e-8535-6087ac16d3a0.jpg)
