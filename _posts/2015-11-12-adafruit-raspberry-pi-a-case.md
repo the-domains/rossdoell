@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-11-12T00:57:35.510Z'
-dateModified: '2015-11-12T00:57:21.771Z'
+datePublished: '2015-11-12T01:13:46.932Z'
+dateModified: '2015-11-12T01:13:41.745Z'
 title: Adafruit Raspberry PI A+ Case
 authors: []
 publisher:
