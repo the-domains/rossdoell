@@ -4,8 +4,15 @@
         <description><![CDATA[rossdoell]]></description>
         <link>https://thegrid.ai/rossdoell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 Nov 2015 10:12:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Nov 2015 10:13:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rossdoell/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[IONSCAN 600]]></title>
+            <description><![CDATA[<article><h1>IONSCAN 600</h1><p>Non-radioactive IMS source *Easy to use interface requires minimal training *Small, lightweight and portable *Fully operational, hot-swappable batteries *Cost effective swabs *Meets ECAC/EU standard for cargo and passenger screening The IONSCAN 600 is a next-generation, portable desktop system used to detect and identify trace amounts of explosives.</p><img src="https://www.smithsdetection.com/media/k2/items/cache/3946cc5a2ed843c2c9fca0b4efcd28ba_XS.jpg"></article>]]></description>
+            <link>https://www.smithsdetection.com/index.php/products-solutions/explosives-narcotics-detection/61-explosives-narcotics-detection/ionscan-600.html?lang=en#.VkDFN7erSUk</link>
+            <guid isPermaLink="false">f20e2e00-403c-406a-9731-4f1e2e641f93</guid>
+            <pubDate>Thu, 12 Nov 2015 22:26:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Adafruit Raspberry PI A+ Case]]></title>
             <description><![CDATA[<article><h1>Adafruit Raspberry PI A+ Case</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc7b195b-f54c-447e-8535-6087ac16d3a0.jpg"></article>]]></description>
@@ -53,13 +60,6 @@
             <link>https://thegrid.ai/rossdoell/ingenyewity/index.html</link>
             <guid isPermaLink="false">d636e6cb-1bc0-43c1-9791-df95562f4f91</guid>
             <pubDate>Thu, 12 Nov 2015 03:38:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IONSCAN 600]]></title>
-            <description><![CDATA[<article><h1>IONSCAN 600</h1><p>Non-radioactive IMS source *Easy to use interface requires minimal training *Small, lightweight and portable *Fully operational, hot-swappable batteries *Cost effective swabs *Meets ECAC/EU standard for cargo and passenger screening The IONSCAN 600 is a next-generation, portable desktop system used to detect and identify trace amounts of explosives.</p><img src="https://www.smithsdetection.com/media/k2/items/cache/3946cc5a2ed843c2c9fca0b4efcd28ba_XS.jpg"></article>]]></description>
-            <link>https://www.smithsdetection.com/index.php/products-solutions/explosives-narcotics-detection/61-explosives-narcotics-detection/ionscan-600.html?lang=en#.VkDFN7erSUk</link>
-            <guid isPermaLink="false">f20e2e00-403c-406a-9731-4f1e2e641f93</guid>
-            <pubDate>Mon, 09 Nov 2015 16:10:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
